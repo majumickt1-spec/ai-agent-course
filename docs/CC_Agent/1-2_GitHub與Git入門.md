@@ -34,6 +34,12 @@ GitHub 就是幫這些檔案「存檔備份」的地方，而且每一次存檔�
 2. 取一個名字（例如 `my_agent`），選擇 Private（私人）
 3. 點「Create repository」
 
+### 怎麼跟 AI 說
+
+申請好帳號、建好 repo 之後，跟它說：
+
+> 「幫我讀一下 `docs/CC_Agent/1-2_GitHub與Git入門.md`，然後帶我實際做一次 status／add／commit／push，一步一步確認我有沒有做對。」
+
 ## 常見卡關
 
 | 狀況 | 解法 |
