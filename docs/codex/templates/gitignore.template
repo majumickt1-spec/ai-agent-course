@@ -1,0 +1,18 @@
+# 起始建議，推送前仍須核對實際檔案。已追蹤檔案不會因此退出版本控制。
+.env
+.env.*
+!.env.example
+credentials.json
+token.json
+auth.json
+*.pem
+*.key
+node_modules/
+.venv/
+__pycache__/
+*.log
+
+# 預設不備份個人日記與每日工作紀錄；要納入私人備份時自行審查後調整。
+300_Journal/
+000_Agent/memory/daily/
+private/

@@ -7,6 +7,15 @@
 - 完全沒寫過程式，但想開始用 AI 幫自己做事的人
 - 已經會用 AI 聊天，但想更進一步，讓 AI「記住你」而不是每次重講一次的人
 
+## Codex 路線｜從零建立個人助手
+
+以 Windows 本機專案為例，從讀寫檔案、個人規則、記憶，到選配技能與私人 GitHub 備份。可獨立閱讀。
+
+- [Codex 安裝懶人包入口與下載方式](docs/codex/README.md)
+- [安裝流程圖](docs/codex/FLOWCHART.md)
+- [8 步驟完整教學](docs/codex/GUIDE.md)
+- [空白設定範本](docs/codex/templates/README.md)
+
 ## 目錄
 
 ### Phase 1｜基礎安裝
