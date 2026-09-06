@@ -24,8 +24,7 @@
 - [3-1 用 Plan Mode 讓 AI 先想清楚再動手](docs/CC_Agent/3-1_用PlanMode讓AI先想清楚再動手.md)
 - [3-2 建立 DESIGN.md 品牌說明書](docs/CC_Agent/3-2_建立DESIGN品牌說明書.md)
 - [3-3 把每日反思變成自動化 Skill](docs/CC_Agent/3-3_把每日反思變成自動化Skill.md)
-- [3-4 拍照收據自動記帳](docs/CC_Agent/3-4_拍照收據自動記帳.md)
-- [3-5 做一個自己的品牌 Landing Page](docs/CC_Agent/3-5_做一個自己的品牌LandingPage.md)
+- [3-4 做一個自己的品牌 Landing Page](docs/CC_Agent/3-4_做一個自己的品牌LandingPage.md)
 
 ### Phase 4｜產出交付
 - [4-1 繳交你的作品](docs/CC_Agent/4-1_繳交你的作品.md)
