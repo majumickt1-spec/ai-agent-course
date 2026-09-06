@@ -10,9 +10,9 @@
 ## 目錄
 
 ### Phase 1｜基礎安裝
-- [1-1 安裝配置你的 Claude Code](docs/1-1_安裝配置Claude-Code.md)
-- [1-2 GitHub 與 Git 入門](docs/1-2_GitHub與Git入門.md)
-- [1-3 怎麼跟 Claude Code 協作最有效](docs/1-3_怎麼跟Claude-Code協作最有效.md)
+- [1-1 安裝配置你的 Claude Code](docs/CC_Agent/1-1_安裝配置Claude-Code.md)
+- [1-2 GitHub 與 Git 入門](docs/CC_Agent/1-2_GitHub與Git入門.md)
+- [1-3 怎麼跟 Claude Code 協作最有效](docs/CC_Agent/1-3_怎麼跟Claude-Code協作最有效.md)
 
 Phase 2～4（訓練 AI 記得你、讓 AI 自動化、產出交付）陸續更新中。
 
